@@ -1,2 +1,2 @@
-# PRODIGY_CS_01
-this repository contains task one of prodigy infotech cyber security internship 
+# CODSOFT
+this repository contains task one of CODSOFT Web Development internship 
